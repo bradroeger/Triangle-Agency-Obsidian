@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "kanban-bases-view"
 ]
